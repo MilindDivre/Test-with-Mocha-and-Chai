@@ -1,0 +1,23 @@
+{
+  "name": "mochachai",
+  "version": "1.0.0",
+  "description": "sample test using mocha and chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MilindDivre/mochaChai.git"
+  },
+  "author": "MD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MilindDivre/mochaChai/issues"
+  },
+  "homepage": "https://github.com/MilindDivre/mochaChai#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
